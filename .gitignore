@@ -2,6 +2,8 @@
 *.json
 *.js
 citations.md
+Citations.md
+CHANGES.md
 *.css
 *.pyc
 *.jpg
