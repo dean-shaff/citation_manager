@@ -6,4 +6,5 @@
 *.pyc
 *.jpg
 *.png
+*.ipynb
 styles/
