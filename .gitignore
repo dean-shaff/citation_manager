@@ -1,7 +1,7 @@
 *.html
 *.json
-*.md
 *.js
+citations.md
 *.css
 *.pyc
 *.jpg
