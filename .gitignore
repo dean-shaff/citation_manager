@@ -4,3 +4,6 @@
 *.js
 *.css
 *.pyc
+*.jpg
+*.png
+styles/
